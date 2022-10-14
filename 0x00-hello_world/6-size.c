@@ -2,7 +2,7 @@
 
 /**
 * main - prints the size of various types
-* Return: 0 if exit is proper; otherwise, any other number
+* Return: always 0
 */
 int main(void)
 {
