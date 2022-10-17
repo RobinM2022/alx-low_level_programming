@@ -8,4 +8,6 @@ File: 3-print_alphabets.c has a program that prints the alphabet in lowercase, a
 
 File: 4-print_alphabt.c has a program that prints the alphabet in lowercase, followed by a new line, except letters q and e.
 
+File 5-print_numbers.c has a program that prints all single digit numbers of base 10, starting from 0, followed by a new line.
+
 
