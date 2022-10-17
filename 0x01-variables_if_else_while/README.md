@@ -8,8 +8,10 @@ File: 3-print_alphabets.c has a program that prints the alphabet in lowercase, a
 
 File: 4-print_alphabt.c has a program that prints the alphabet in lowercase, followed by a new line, except letters q and e.
 
-File 5-print_numbers.c has a program that prints all single digit numbers of base 10, starting from 0, followed by a new line.
+File: 5-print_numbers.c has a program that prints all single digit numbers of base 10, starting from 0, followed by a new line.
 
 File: 6-print_numberz.c has a program that prints all single digit numbers of base 10, starting from 0, followed by a new line.
+
+File: 7-print_tebahpla.c has a program that prints the lowercase alphabet in reverse, followed by a new line.
 
 
