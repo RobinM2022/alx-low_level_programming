@@ -9,21 +9,21 @@ int main(void)
 {
 	int n, m;
 
-	for (n = 48; n < 56; n++)
+	for (n = 0; n < 9; n++)
 	{
-		for (m = 49; m < 57; m++)
+		for (m = n + 1; m < 10; m++)
 		{
-			putchar(n);
-			putchar(m);
+			putchar((n % 10) + '0');
+			putchar((m % 10) + '0');
 
-			if (n != 56 && m != 57)
-			{
+			if (n == 8 && m == 9)
+				continue;
 
-				putchar(',');
-				putchar(',');
-			}
+			putchar(',');
+			putchar(',');
 		}
 	}
+
 	putchar('\n');
 
 	return (0);
