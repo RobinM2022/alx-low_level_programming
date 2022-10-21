@@ -10,4 +10,6 @@ File: 4-isalpha.c has a program with a function that checks for alphabetic chara
 
 File: 5-sign.c has a program with a function that prints the sign of a number.
 
+File 6-abs.c has a program with a function that computes the absolute value of an integer.
+
 
