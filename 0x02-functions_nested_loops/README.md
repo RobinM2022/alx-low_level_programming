@@ -6,4 +6,6 @@ File: 2-print_alphabet_x10.c has a program that prints 10 times the alphabet, in
 
 File: 3-islower.c has a program with a function that checks for lowercase character.
 
+File: 4-isalpha.c has a program with a function that checks for alphabetic character.
+
 
