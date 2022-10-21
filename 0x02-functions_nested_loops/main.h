@@ -1,9 +1,3 @@
-#ifndef main.h
-#define main.h
-
-/**
-  * This file declares all the funtions used in the 0x02-funtions_nested_loops directory
-  */
 int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
