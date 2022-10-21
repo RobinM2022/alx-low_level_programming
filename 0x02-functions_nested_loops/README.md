@@ -16,4 +16,6 @@ File 7-print_last_digit.c has a program with a function that prints the last dig
 
 File: 8-24_hours.c has a program with a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
+File 9-times_table.c has a program with a function that prints the 9 times tables, starting with 0.
+
 
