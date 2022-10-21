@@ -8,4 +8,6 @@ File: 3-islower.c has a program with a function that checks for lowercase charac
 
 File: 4-isalpha.c has a program with a function that checks for alphabetic character.
 
+File: 5-sign.c has a program with a function that prints the sign of a number.
+
 
