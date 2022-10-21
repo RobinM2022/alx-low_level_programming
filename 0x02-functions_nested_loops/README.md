@@ -18,4 +18,6 @@ File: 8-24_hours.c has a program with a function that prints every minute of the
 
 File 9-times_table.c has a program with a function that prints the 9 times tables, starting with 0.
 
+File 10-add.c has a program with a function that adds two integers and returns the result.
+
 
