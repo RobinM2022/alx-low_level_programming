@@ -20,4 +20,6 @@ File 9-times_table.c has a program with a function that prints the 9 times table
 
 File 10-add.c has a program with a function that adds two integers and returns the result.
 
+File 11-print_to_98.c has a program that prints all natural numbers from n to 98, followed by a new line.
+
 
