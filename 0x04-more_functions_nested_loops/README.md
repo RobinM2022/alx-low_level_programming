@@ -4,4 +4,6 @@ File 1-isdigit.c has a function that checks for a digit (0 through 9). The proto
 
 File 2-mul.c has a function that multiplies two integers. The prototype is int mul(int a, int b).
 
+File 3-print_numbers.c has a function that prints numbers, from 0 t0 9, followed by a new line. The prototype is void print_numbers(void).
+
 
