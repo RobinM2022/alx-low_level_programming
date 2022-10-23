@@ -6,4 +6,6 @@ File 2-mul.c has a function that multiplies two integers. The prototype is int m
 
 File 3-print_numbers.c has a function that prints numbers, from 0 t0 9, followed by a new line. The prototype is void print_numbers(void).
 
+File 4-print_most_numbers.c has a function that prints numbers, from 0 to 9, followed by a new line. Numbers 2 and 4 are omitted. 
+
 
