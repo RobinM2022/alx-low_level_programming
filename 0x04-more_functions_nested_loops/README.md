@@ -8,4 +8,6 @@ File 3-print_numbers.c has a function that prints numbers, from 0 t0 9, followed
 
 File 4-print_most_numbers.c has a function that prints numbers, from 0 to 9, followed by a new line. Numbers 2 and 4 are omitted. 
 
+File 5-more_numbers.c has a function that prints 10 times the numbers, from 0 to 14, followed by a new line. 
+
 
