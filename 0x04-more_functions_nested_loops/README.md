@@ -2,4 +2,6 @@ File 0-isupper.c has a function that checks for uppercase character. The prototy
 
 File 1-isdigit.c has a function that checks for a digit (0 through 9). The prototyple is int _isdigit(int c). The function returns 1 if c is a digit, otherwise 0.
 
+File 2-mul.c has a function that multiplies two integers. The prototype is int mul(int a, int b).
+
 
