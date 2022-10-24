@@ -2,4 +2,6 @@ File 0-main.c and main.h created for task 0 of the debugging project. They test 
 
 File 1-main.c comments out part of the code that is causing the output to go into an infinite loop.
 
+File 2-largest_number.c fixes the code so that it correctly prints out the largest of the three numbers, no matter the case.
+
 
