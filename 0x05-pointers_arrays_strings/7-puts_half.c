@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * put_half - prints half a string, followed by a new line.
+ * puts_half - prints half a string, followed by a new line.
  * @str: The input
  * if odd number len, n = (length_of_the_string - 1) /2
  */
-void put_half(char *str)
+void puts_half(char *str)
 {
 	int i, n, len;
 
