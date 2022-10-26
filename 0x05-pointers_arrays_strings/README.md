@@ -14,6 +14,6 @@ File 6-puts2.c has a function that prints every other character of a string, sta
 
 File 7-puts_half.c has a function that prints half of a string, followed by a new line.
 
-File
+File 8-print_array.c has a function that prints n elements of an array of integers, followed by a new line.
 
-File 
+File 9 
