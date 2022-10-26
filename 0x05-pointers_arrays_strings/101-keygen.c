@@ -7,19 +7,27 @@
  */
 int main(void)
 {
-	int k = 0, i = 0;
-	time_t t;
+	int pass [100];
+	int i, sum, n;
+	
+	sum = 0;
 
-	srand((unsigned int) time(&t));
-	while (i < 2772)
+	srand(time(NULL));
+	
+	for (i = 0; i < 100; i++)
 	{
-		k = rand() % 128;
-		if ((i + k) > 2772)
-			break; 
-		i = i + k;
-		printf("%c", k);
+		pass[i] = rand() % 78;
+		sum += (pass[i] + '0');
+		putchar(pass[i] + '0');
+		if ((2772 - sum) - '0' < 78)
+		{
+			n = 2772 - sum - '0';
+			sum += n;
+			putchar(n + '0');
+			break;
+		}
+	
 	}
-	printf("%c\n", (2772 - i));
+
 	return (0);
 }
-
