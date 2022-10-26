@@ -8,9 +8,9 @@ File 3-puts.c has a function that prints a string, followed by a new line, to st
 
 File 4-print_rev.c has a function that prints a string, in reverse, followed by a new line.
 
-File
+File 5-rev_string.c has a function that reverses a string.
 
-File
+File 
 
 File
 
