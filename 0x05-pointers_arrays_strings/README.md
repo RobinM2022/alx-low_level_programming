@@ -6,7 +6,7 @@ File 2-strlen.c has a function that returns the length of a string.
 
 File 3-puts.c has a function that prints a string, followed by a new line, to stdout.
 
-File
+File 4-print_rev.c has a function that prints a string, in reverse, followed by a new line.
 
 File
 
