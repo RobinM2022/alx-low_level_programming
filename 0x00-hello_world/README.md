@@ -15,4 +15,6 @@ File 5-printf.c has a program that prints exactly with proper grammar, but the o
 
 File 6-size.c has a program that prints the size of various types on the computer it is compiled and run on. It produces the exact same output as in the example. Warnings are allowed and the program returns 0. 
 
+File 100-intel has a script that generates the assembly code (Intel syntax) of a C code and saves it in an input file. The C file name is saved in the variable $CFILE. The output is named the same as the C file, but with the extension .s instead of .c.
 
+File 101-quote.c has a program that prints and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
