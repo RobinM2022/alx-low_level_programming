@@ -7,8 +7,8 @@
   * Return: 0 when sucessful.
   */
 
-int main(int argc, char *argv[] __attribute__((unused)))  
+int main(int argc, char *argv[] __attribute__((unused)))
 {
-	printf("The number received by argc is %d:\n", argc - 1);
+	printf("%d\n", argc - 1);
 	return (0);
 }
