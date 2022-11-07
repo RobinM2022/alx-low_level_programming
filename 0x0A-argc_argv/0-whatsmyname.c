@@ -4,6 +4,7 @@
   * main - prints the program name, folloed by a new line
   * @argc: the number of arguments passed to the command line
   * @argv: pointer to an array of char pointers
+  *
   * Return: 0 when successful.
   */
 
