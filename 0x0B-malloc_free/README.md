@@ -2,6 +2,8 @@
 
 	File 1-strdup.c has a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
+	File 2-str_concat.c has a function that concatenates two strings. 
+
 
 	
 
