@@ -4,6 +4,8 @@
 
 	File 2-str_concat.c has a function that concatenates two strings. 
 
+	File 3-alloc_grid.c has a function that returns a pointer to a 2 dimensional array of integers. 
+
 
 	
 
