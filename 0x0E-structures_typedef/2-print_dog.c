@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-  * print_dog: Prints a struct dog.
+  * print_dog - prints a struct dog.
   * @d: The dog to be printed.
   *
   * Return: Nothing.
@@ -10,7 +10,7 @@
 void print_dog(struct dog *d)
 {
 	if (d == NULL)
-		return; 
+		return;
 
 	if (d->name == NULL)
 		printf("Name: (nil)\n");
@@ -24,6 +24,6 @@ void print_dog(struct dog *d)
 
 	if (d->owner == NULL)
 		printf("Name: (nil)\n");
-	else 
+	else
 		printf("Owner: %s\n", d->owner);
 }
