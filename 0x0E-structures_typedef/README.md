@@ -11,4 +11,4 @@ File dog.h also defines a new type dog_t as a new name for the type struct dog.
 
 File 4-new_dog.c has a function that creates a new dog.
 
-
+File 5-free_dog.c has a function that frees dogs.
