@@ -6,4 +6,4 @@ File 2-main.c has a program that prints the name of the file it was compiled fro
 
 File 3-function_like_macro.h has a function like macro ABS(X) that computes the absoloute value of a number x.
 
-
+File 4-sum.h has a function-like macro SUM(x, y) that computes the sum of the numbers x and y. 
