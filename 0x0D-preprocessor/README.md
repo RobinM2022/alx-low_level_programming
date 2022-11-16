@@ -4,4 +4,6 @@ File 1-pi.h is a header file that defines a macro named PI as an abbreviation fo
 
 File 2-main.c has a program that prints the name of the file it was compiled from, followed by a new line.
 
+File 3-function_like_macro.h has a function like macro ABS(X) that computes the absoloute value of a number x.
+
 
