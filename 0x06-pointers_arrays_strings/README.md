@@ -1,6 +1,6 @@
 # 0x06. C - More pointers, arrays and strings
 
-## * 0-strcat.c
+## 0-strcat.c
 * Has a function that concatenates two strings.
   Prototype: char *_strncat(char *dest, char *src, int n);
   The _strncat function is similar to the _strcat function, except that
@@ -13,4 +13,9 @@
     The _strncat function is similar to the _strcat function, except that
     it will use at most n bytes from src; and src does not need to be null-terminated if it contains n or more bytes
     Return a pointer to the resulting string dest
+
+## 2-strncpy.c
+  * A function that copies a string.
+    Prototype: char *_strncpy(char *dest, char *src, int n);
+    The function should work exactly like strncpy
 
