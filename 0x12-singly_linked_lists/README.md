@@ -8,4 +8,8 @@ I learned about linked lists, when and why to use them and how to build and use 
 * Return: the number of nodes.
 * If str is NULL, print [0] (nil).
 
+## 1-list_len.c
+* Returns the number of elements in a linked list_t list.
+* Prototype: size_t list_len(const list_t *h);
+
 
