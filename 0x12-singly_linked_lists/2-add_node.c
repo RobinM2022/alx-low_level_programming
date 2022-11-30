@@ -9,7 +9,7 @@
   * Return: NULL if the function fails.
   *         Otherwise, address of the new element.
   */
-list_t *add_node( list_t **head, const char *str)
+list_t *add_node(list_t **head, const char *str)
 {
 	int len;
 	char *dup;
