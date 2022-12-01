@@ -26,4 +26,7 @@ I learned about linked lists, when and why to use them and how to build and use 
 * str needs to be duplicated
 * Allowed to use strdup
 
+## 4-free_list.c
+* Frees a list_t list.
+* Prototype: void free_list(list_t *head);
 
