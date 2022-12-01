@@ -8,3 +8,7 @@ In this project I practiced more on creating and using linked lists.
 * Return: the number of nodes.
 * The use of printf is allowed.
 
+## 1-listint_len.c 
+* Returns the number of elements in a linked listint_t list.
+* Prototype: size_t listint_len(const listint_t *h);
+
