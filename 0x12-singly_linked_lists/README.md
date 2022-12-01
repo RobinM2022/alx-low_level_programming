@@ -30,3 +30,7 @@ I learned about linked lists, when and why to use them and how to build and use 
 * Frees a list_t list.
 * Prototype: void free_list(list_t *head);
 
+## 100-first.c
+* A function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
+* The use of the printf function is allowed.
+
